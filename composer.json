@@ -1,5 +1,5 @@
 {
-    "name": "lenovo/coba-library",
+    "name": "wesmangan/coba-library",
     "type": "library",
     "autoload": {
         "psr-4": {
