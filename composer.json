@@ -12,6 +12,7 @@
             "email": "alvindian85@gmail.com"
         }
     ],
+    
     "require": {
         "php" : ">=8.0.0"
     }
